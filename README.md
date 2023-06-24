@@ -1,4 +1,4 @@
-# About me 🪐
+# About me <img src="Ringed Planet.png" align= "center" width="45"> 
 <div>
   <img src="astast.png" alt="Descripción de la imagen" align="right" width="320">
   <p align="left">Hey! I'm Hassaleah, i'm a graphic designer currently delved into the world of programming, focusing on front-end development.</p>
