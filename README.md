@@ -1,6 +1,6 @@
 # About me 🪐
 <div>
-  <img src="bonbon-line-summary.png" alt="Descripción de la imagen" align="right" width="250">
+  <img src="astast.png" alt="Descripción de la imagen" align="right" width="320">
   <p align="left">Hey! I'm Hassaleah, i'm a graphic designer currently delved into the world of programming, focusing on front-end development.</p>
 </div>
 
