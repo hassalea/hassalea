@@ -13,7 +13,4 @@
     <img src="https://img.shields.io/badge/react-202020?logo=react&logoColor=FFFFFF&style=for-the-badge"/>
 </div>
 
-/*## Learning
- <div align="left">
-    
-</div>*/
+
