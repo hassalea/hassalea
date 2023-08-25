@@ -1,7 +1,8 @@
 # About me <img src="Ringed Planet.png" align= "center" width="45"> 
 <div>
   <img src="astast.png" alt="Descripción de la imagen" align="right" width="320">
-  <p align="left">Hey! I'm Hassaleah, i'm a graphic designer currently delved into the world of programming, focusing on front-end development.</p>
+  <p align="left">Hey! My name is Hassaleah, and I'm a Graphic Designer from El Salvador who has dedicated over 5 years of my professional career successfully managing and coordinating projects from concept through 
+  completion. In addition to my passion for design, I've also delved into the world of programming, with a particular focus on Front-End development.</p>
 </div>
 
 
