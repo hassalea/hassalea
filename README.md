@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/CSS-202020?logo=css3&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/JavaScript-202020?logo=javascript&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/react-202020?logo=react&logoColor=FFFFFF&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/oracle-202020?logo=react&logoColor=FFFFFF&style=for-the-badge"/>
 </div>
 
 
