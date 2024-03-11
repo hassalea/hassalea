@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/React-202020?logo=react&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Python-202020?logo=python&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Oracle-202020?logo=oracle&logoColor=FFFFFF&style=for-the-badge"/>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassalea&layout=compact)
 </div>
 
 
