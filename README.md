@@ -1,6 +1,6 @@
 # Hey! I'm Hassaleah
 <div>
-  <img src="astast.png" alt="Descripción de la imagen" align="right" width="390">
+  <img src="astast.png" alt="Descripción de la imagen" align="right" width="370">
   <p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.
     <br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 </div>
