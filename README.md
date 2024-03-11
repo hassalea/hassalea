@@ -10,7 +10,7 @@
 
 #### 👨‍💻 You can see some of my projects at [https://hassalea.github.io/portfolio/](https://hassalea.github.io/portfolio/) <br>
 
-## Skills <br>
+## Languages and Tools <br>
  <div align="left">
     <img src="https://img.shields.io/badge/HTML5-202020?logo=html5&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/CSS-202020?logo=css3&logoColor=FFFFFF&style=for-the-badge"/>
