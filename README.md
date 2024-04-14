@@ -2,15 +2,28 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.<br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 
 ###
 
-<h6 align="center">Technologies and programms I've been working with recently:</h6>
+<br clear="both">
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/hassaleah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="hassaleah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ###
-
-<div align="center">
+<div>
+  <div align="left">
+    <h6 align="left">Technologies and programms I've been working with recently:</h6>
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
@@ -25,35 +38,25 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
 </div>
+  <img src="astast.png" alt="Descripción de la imagen" align="right" width="370">
+</div>
+
 
 ###
 
-<br clear="both">
-
-<img src="astast.png" alt="Descripción de la imagen" align="right" width="100">
-
-###
-
+<br>
 <div align="left">
-  <a href="https://www.linkedin.com/in/hassaleah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="hassaleah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/31wocvarqn6pclzlmfrgvtyw73d4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wocvarqn6pclzlmfrgvtyw73d4&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wocvarqn6pclzlmfrgvtyw73d4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-# Hey! I'm Hassaleah
+
+
+
+<!--# Hey! I'm Hassaleah
 <div>
   <img src="astast.png" alt="Descripción de la imagen" align="right" width="370">
   <p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.
@@ -61,7 +64,7 @@
 </div>
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassalea&label=Profile%20views&color=0e75b6&style=flat" alt="hassalea" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassalea&label=Profile%20views&color=0e75b6&style=flat" alt="hassalea" /> </p>
 
 <h4>👨‍💻 You can see some of my projects at https://hassalea.github.io/portfolio/ <br></h4>
 <h4>✉️ Contact me on: www.linkedin.com/in/hassaleah</h4>
@@ -75,4 +78,4 @@
     <img src="https://img.shields.io/badge/React-202020?logo=react&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Python-202020?logo=python&logoColor=FFFFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Oracle-202020?logo=oracle&logoColor=FFFFFF&style=for-the-badge"/>
-</div>
+</div>-->
