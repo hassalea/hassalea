@@ -1,10 +1,6 @@
 <h2 align="left">Hey! I'm Hassaleah</h2>
 
-###
-
-<br clear="both">
-
-<p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.<br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
+<h6 align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.<br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 
 ###
 
@@ -23,7 +19,7 @@
 ###
 <div>
   <div align="left">
-    <h6 align="left">Technologies and programms I've been working with recently:</h6>
+    <h5 align="left">Technologies and programms I've been working with recently:</h6>
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
