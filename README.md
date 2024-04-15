@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/hassaleah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -15,8 +15,8 @@
   </a>
 </div>
 
+<img src="astast.png" alt="Descripción de la imagen" align="right" width="400">
 
-###
 <div>
   <div align="left">
     <h5 align="left">Technologies and programms I've been working with recently:</h6>
@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
 </div>
-  <img src="astast.png" alt="Descripción de la imagen" align="right" width="370">
 </div>
 
 
