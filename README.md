@@ -1,4 +1,4 @@
-<!--<h2 align="left">Hey! I'm Hassaleah</h2>
+<!--<h2 align="left"> Hey! I'm Hassaleah </h2>
 
 <p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.<br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 
