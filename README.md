@@ -1,4 +1,4 @@
-<!--<h2 align="left"> Hey! I'm Hassaleah </h2>
+<!--<h2 align="left">Hey! I'm Hassaleah</h2>
 
 <p align="left">I'm a Graphic Designer from sunny El Salvador, i have a creative soul, trying to bring ideas to life and coordinate projects from start to finish.<br>Besides design, I've also dipped into programming, especially loving Front-End development✨</p>
 
@@ -61,7 +61,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassalea&label=Profile%20views&color=0e75b6&style=flat" alt="hassalea" /> </p>
 
 <h4>👨‍💻 You can see some of my projects at https://hassalea.github.io/portfolio/ <br></h4>
-<h4>✉️ Contact me on: www.linkedin.com/in/hassaleah</h4>
+<h4>✉️ Connect with me on: www.linkedin.com/in/hassaleah</h4>
 
 
 ## Languages and Tools <br>
