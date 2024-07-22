@@ -60,7 +60,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassalea&label=Profile%20views&color=0e75b6&style=flat" alt="hassalea" /> </p>
 
-<h4>👨‍💻 You can see some of my projects at https://hassalea.github.io/portfolio/ <br></h4>
+<h4>👨‍💻 You can see some of my projects at https://hasaleah.github.io/portfolio/ <br></h4>
 <h4>✉️ Connect with me on: www.linkedin.com/in/hassaleah</h4>
 
 
